@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Cuong, a student at UIT - University of Information Technology, Ho Chi Minh City.<br><br>🚀 Passionate about Software Engineering, Web Development and UI/UX Design.<br>💡 Currently exploring Java Spring and System design.<br>🔧 Experienced with ReactJS, Node.js, Java core, Git, GitHub, and Database Management.<br>🌱 Always learning and improving my coding skills!<br><br>📫 Feel free to reach out and connect!
+Hi there! I'm Cuong, a student at UIT - University of Information Technology, Ho Chi Minh City.<br><br>🚀 Passionate about Software Engineering, Web Development and UI/UX Design.<br>💡 Currently exploring Java Spring and System Design.<br>🔧 Experienced with ReactJS, Node.js, Java core, Git, GitHub, and Database Management.<br>🌱 Always learning and improving my coding skills!<br><br>📫 Feel free to reach out and connect!
 
 
 ## 🌐 Socials:
