@@ -12,5 +12,5 @@ Hi there! I'm Cuong, a student at UIT - University of Information Technology, Ho
 ![](https://github-readme-stats.vercel.app/api?username=NguyenHungCuongg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NguyenHungCuongg&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHungCuongg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=NguyenHungCuongg&show_icons=true&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
