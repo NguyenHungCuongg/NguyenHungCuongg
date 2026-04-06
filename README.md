@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm Cuong, a student at UIT - University of Information Technology, Ho Chi Minh City.<br><br>Passionate about Application Development, Data Analysis.<br>Currently exploring DL/ML.<br>Experienced with Spring Boot, ReactJS, Node.js, Python and Database Management.<br>Always learning and improving my coding skills!<br><br>Feel free to reach out and connect!
+Hi there! I'm Cuong, a student at UIT - University of Information Technology, Ho Chi Minh City.<br><br>Passionate about Software Development, Data Analysis.<br>Currently exploring DL/ML.<br>Experienced with Spring Boot, ReactJS and Database Management.<br>Always learning and improving my skills!<br><br>Feel free to reach out and connect!
 
 
 ## Socials:
