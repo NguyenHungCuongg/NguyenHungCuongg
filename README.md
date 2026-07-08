@@ -9,7 +9,7 @@
 - Passionate about Software Development, Data Analysis.
 - Experienced with Spring Boot, ReactJS, PostgreSQL, REST APIs and Microservices.
 - Exploring DevOps, Cloud Infrastructure, CI/CD.
-- Interests: Manga, Drawing.
+- Interests: Manga, Drawing, Playing League, Coding.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cuong.nguyen.813584/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-76153a333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cuonghungnguyentop@gmail.com) 
