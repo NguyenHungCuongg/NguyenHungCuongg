@@ -1,7 +1,7 @@
 <div align="center">
     <img height="220" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhuZ3BudDVnNW01OWt2NGg5YjJpYm5obndxeW1nZGE4dGR6NGJxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OidjQE6qtQ0w0sVx6D/giphy.gif" />
     <br />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&amp;height=80&amp;fontSize=36&amp;fontAlign=50&amp;fontAlignY=50&amp;color=auto&amp;text=Nguyễn%20Hùng%20Cường" alt="Nguyễn Hùng Cường" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&height=80&fontSize=36&fontAlign=50&fontAlignY=50&text=Nguyễn%20Hùng%20Cường">
     <p>Fullstack Software Developer · UIT · Di An - Ho Chi Minh City</p>
 </div>
   
