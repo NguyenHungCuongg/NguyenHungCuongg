@@ -9,7 +9,7 @@
 - Passionate about Software Development, Data Analysis.
 - Experienced with Spring Boot, ReactJS, PostgreSQL, REST APIs and Microservices.
 - Exploring DevOps, Cloud Infrastructure, CI/CD.
-- Interests: Manga, Drawing, Playing League, Coding.
+- Interests: Coding, Manga, Drawing, Playing League, American TV Series.
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cuong.nguyen.813584/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-76153a333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cuonghungnguyentop@gmail.com) 
@@ -52,8 +52,15 @@
 
 ## Github Stats:
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=NguyenHungCuongg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=NguyenHungCuongg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api?username=NguyenHungCuongg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=NguyenHungCuongg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+
+<div align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/CuongNguyen2k4?font=Ubuntu"
+    alt="LeetCode Stats"
+  />
+</div>
 
