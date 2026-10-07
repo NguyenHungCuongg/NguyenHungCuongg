@@ -57,10 +57,10 @@
 </div>
 
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://leetcard.jacoblin.cool/CuongNguyen2k4?font=Ubuntu"
     alt="LeetCode Stats"
   />
-</div>
+</div> -->
 
