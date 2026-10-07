@@ -8,7 +8,7 @@
 # About Me:
 - Passionate about Software Development, Data Analysis.
 - Experienced with Spring Boot, ReactJS, PostgreSQL, REST APIs and Microservices.
-- Exploring DevOps, Cloud Infrastructure, CI/CD.
+- Exploring DevOps, Cloud Infrastructure & Agentic AI.
 - Interests: Coding, Manga, Drawing, Playing League, American TV Series.
 
 ## Socials:
